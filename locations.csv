@@ -1,0 +1,5 @@
+locationId,name,type,country,lat,lon,coordNote
+L01,Delhi,origin,India,28.6139,77.2090,approximate city centre
+L02,Punjab,origin,India,30.9000,75.8500,approximate state centroid
+L03,Haryana,origin,India,29.0600,76.0900,approximate state centroid
+L04,Paris,destination,France,48.8566,2.3522,approximate city centre

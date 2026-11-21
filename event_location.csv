@@ -1,0 +1,8 @@
+eventId,locationId,roleAtLocation
+E01,L01,origin
+E01,L02,origin
+E01,L03,origin
+E02,L01,departure_region
+E02,L02,departure_region
+E02,L03,departure_region
+E02,L04,destination
