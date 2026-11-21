@@ -160,6 +160,7 @@ ORDER BY connections DESC LIMIT 10;
 ```
 
 ## Visualization
+<img width="1085" height="740" alt="bloom-visualisation" src="https://github.com/user-attachments/assets/a80736d4-c2ba-4c9f-816c-3cddbdf8c773" />
 
 
 
